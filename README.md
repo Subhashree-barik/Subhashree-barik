@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Subhashree-barik/Subhashree-barik/blob/main/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm SUBHASHREE BARIK</h1>
 <h3 align="center">A passionate fullstack web developer from India</h3>
 <img align="right" alt="coding" width="400"src=""C:\Users\KIIT0001\Downloads\211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
